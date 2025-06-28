@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22您好！%2C%20这里是乐崽吖！%22);欢迎来到我的GitHub主页！&center=true&size=27"> </a> </h1>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=您好！这里是LezaiYa;欢迎来到我的Github页面！)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewLezaiYa)
 
